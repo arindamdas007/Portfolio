@@ -8,7 +8,7 @@ body {
     font-family: "Cal Sans", sans-serif;
     color: #fff;
     min-height: 100vh;
-    background-image: url('https://img.freepik.com/free-vector/yellow-gray-background-concept_52683-55165.jpg?t=st=1746103306~exp=1746106906~hmac=b09cbeb323ef9d1a4b063a5286fcab0b5c4ec7f38154c1de8c30b7bf540876b9&w=1380');
+    background-image: url('https://img.freepik.com/free-vector/yellow-gray-background-concept_52683-55165.jpg?t=st=1746103306~exp=1746106906~hmac=b09cbeb323ef9d1a4b063a5286fcab0b5c4ec7f38154c1de8c30b7bf540876b9&w=1380'); /* Other CSS properties */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
