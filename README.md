@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **iarindamdas7@gmail.com**
 
-- ⚡ Fun fact **A Content Writer Turned IT Professional**
+- ⚡ **A Content Writer Turned Full Time IT Professional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
